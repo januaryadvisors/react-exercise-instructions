@@ -13,7 +13,7 @@ These exercises are intended for someone that has ...
 
 ## Setup
 
-Open the project zip file on your computer.
+Open the project zip file that we sent to you along with these instructions on your computer.
 Once in the project directory, run `npm install .` to install all node modules.
 
 To start your local server, run `npm start`. You should see the app running at `http://localhost:3000/`!
