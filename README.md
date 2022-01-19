@@ -18,7 +18,7 @@ Once in the project directory, run `npm install .` to install all node modules.
 
 To start your local server, run `npm start`. You should see the app running at `http://localhost:3000/`!
 
-For both exercises, you'll be asked to edit code in the [components](https://github.com/januaryadvisors/react-exercises/tree/main/src/components) folder of our repository, which is what you'll submit via email.
+For both exercises, you'll be asked to edit code in the [components](https://github.com/januaryadvisors/react-exercises/tree/main/src/components) folder of our repository, which is what you'll submit via Google Drive.
 
 ## Exercise 1 - Fruit List
 
@@ -45,6 +45,6 @@ For this exercise, please update the code so that the text input acts as a searc
 
 ## Submitting
 
-Please zip/compress your edited `components` folder and email it to `emi@januaryadvisors.com` and `kelsey@januaryadvisors.com`. If you happened to make edits to any other files, please send us those as well.
+Please zip/compress your edited `components` folder and upload it to the Google Drive folder we shared with you. If you happened to make edits to any other files, please send us those as well.
 
 Thank you very much for taking the time to participate! If you have any questions, feel free to email `emi@januaryadvisors.com` and `kelsey@januaryadvisors.com`.
